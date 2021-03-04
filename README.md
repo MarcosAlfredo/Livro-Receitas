@@ -1,4 +1,4 @@
-# Livro de Receitas :cook:
+# Livro de Receitas :open_book:
 
 
 
