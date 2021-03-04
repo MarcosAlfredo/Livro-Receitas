@@ -1,4 +1,4 @@
-# Livro de Receitas :beer:
+# Livro de Receitas :book:
 
 
 
